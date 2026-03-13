@@ -1,0 +1,115 @@
+Security Log Analysis Report
+--------------------------------
+
+Summary
+---------
+
+Total Events Processed: 500000
+Total Failed Logins: 253588
+Unique Attackers IP: 253576
+
+Top Attacker
+26.83.16.99 - 2 attempts
+Top Attackers
+---------
+
+26.83.16.99 - 2 failed attempts LOW RISK
+
+142.92.37.147 - 2 failed attempts LOW RISK
+
+71.86.133.112 - 2 failed attempts LOW RISK
+
+18.239.66.29 - 2 failed attempts LOW RISK
+
+69.78.49.179 - 2 failed attempts LOW RISK
+
+197.146.235.252 - 2 failed attempts LOW RISK
+
+15.159.207.133 - 2 failed attempts LOW RISK
+
+32.33.158.17 - 2 failed attempts LOW RISK
+
+62.159.76.126 - 2 failed attempts LOW RISK
+
+213.42.164.219 - 2 failed attempts LOW RISK
+
+209.4.252.22 - 2 failed attempts LOW RISK
+
+132.91.229.78 - 2 failed attempts LOW RISK
+
+126.48.141.168 - 1 failed attempts LOW RISK
+
+114.89.244.50 - 1 failed attempts LOW RISK
+
+160.57.131.202 - 1 failed attempts LOW RISK
+
+170.1.43.149 - 1 failed attempts LOW RISK
+
+84.123.198.72 - 1 failed attempts LOW RISK
+
+146.104.250.3 - 1 failed attempts LOW RISK
+
+146.148.194.51 - 1 failed attempts LOW RISK
+
+158.127.123.223 - 1 failed attempts LOW RISK
+
+210.145.100.235 - 1 failed attempts LOW RISK
+
+220.133.127.72 - 1 failed attempts LOW RISK
+
+73.93.239.254 - 1 failed attempts LOW RISK
+
+135.169.23.53 - 1 failed attempts LOW RISK
+
+191.85.225.209 - 1 failed attempts LOW RISK
+
+111.121.94.152 - 1 failed attempts LOW RISK
+
+48.11.66.235 - 1 failed attempts LOW RISK
+
+157.79.31.38 - 1 failed attempts LOW RISK
+
+94.214.65.70 - 1 failed attempts LOW RISK
+
+136.120.84.37 - 1 failed attempts LOW RISK
+
+58.133.211.7 - 1 failed attempts LOW RISK
+
+107.145.207.4 - 1 failed attempts LOW RISK
+
+58.133.162.107 - 1 failed attempts LOW RISK
+
+221.98.28.167 - 1 failed attempts LOW RISK
+
+208.0.145.9 - 1 failed attempts LOW RISK
+
+173.11.78.252 - 1 failed attempts LOW RISK
+
+134.66.25.69 - 1 failed attempts LOW RISK
+
+210.154.97.183 - 1 failed attempts LOW RISK
+
+211.180.118.252 - 1 failed attempts LOW RISK
+
+86.54.29.221 - 1 failed attempts LOW RISK
+
+103.9.230.197 - 1 failed attempts LOW RISK
+
+203.254.150.156 - 1 failed attempts LOW RISK
+
+5.169.170.43 - 1 failed attempts LOW RISK
+
+40.220.122.139 - 1 failed attempts LOW RISK
+
+55.128.58.155 - 1 failed attempts LOW RISK
+
+174.100.208.87 - 1 failed attempts LOW RISK
+
+41.246.102.136 - 1 failed attempts LOW RISK
+
+78.37.211.125 - 1 failed attempts LOW RISK
+
+36.22.63.163 - 1 failed attempts LOW RISK
+
+169.7.18.9 - 1 failed attempts LOW RISK
+
