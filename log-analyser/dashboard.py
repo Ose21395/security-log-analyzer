@@ -2,12 +2,18 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
+
+@st.cache_data
+def load_data(file):
+    return pd.read_csv(file)
+
+
 st.title("Security Log Analysis Dashboard")
 
 uploaded_file = st.file_uploader("Upload Authentication Log CSV", type=["csv"])
 
 if uploaded_file:
-    df = pd.read_csv(uploaded_file)
+    df = load_data(uploaded_file)
     
     total_events = len(df)
     failed = df[df["status"].str.lower() == "failed"]
@@ -93,4 +99,5 @@ if uploaded_file:
         else:
             st.info("Timestamp information not available in the data")
     else:
+
         st.info("No failed login attempts to visualize")
