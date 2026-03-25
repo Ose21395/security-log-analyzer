@@ -4,18 +4,18 @@ A web-based security tool that analyzes authentication logs to detect failed log
 Built with Python and Streamlit, this project helps visualize login patterns and supports basic threat detection workflows.
 
 ## 🚀 Live Demo
-👉 https://your-streamlit-link
+👉 https://security-log-analyzer-hezir3nehnmgk4gfgwxfnv.streamlit.app/
 
 ## Example Visualizations
 
 ### Top Attacking IPs
-![Attackers](screenshots/attackers.png)
+![Attackers](log-analyser/screenshots/attackers.png)
 
 ### Attack Locations
-![Cities](screenshots/cities.png)
+![Cities](log-analyser/screenshots/cities.png)
 
 ### Attack Timeline
-![Timeline](screenshots/timeline.png)
+![Timeline](log-analyser/screenshots/timeline.png)
 
 ## Key Features
 
@@ -45,7 +45,7 @@ This tool can be used by security analysts or small organizations to monitor log
 ## ▶️ Run Locally
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run analyzer.py
 
 Run log analysis:
 
